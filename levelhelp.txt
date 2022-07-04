@@ -1,0 +1,21 @@
+Black - WIP (0,0,0)
+
+Brown: mud (139,69,19)
+
+Green: mud with grass on top (0,255,0)
+
+Orange: (255, 165, 0) : LAVA
+
+White: air (255,255,255)
+
+Pink: goal (255, 192, 203)
+
+Blue: Water (0,0,255)
+
+Grey = Brick (200,200,200)
+
+
+
+
+
+
